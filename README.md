@@ -1,4 +1,4 @@
-# SignSence- Indian Sign Language Recognition System
+# SignSense- Indian Sign Language Recognition System
 ## **Welcome to Our Project..!** 
 
 Our team has developed a real-time Indian Sign Language Recognition System using Python and Convolutional Neural Networks (CNN). The goal of this project is to recognize various signs made using hand gestures and convert them into text for easy communication, particularly aiding those with speech and hearing impairments. This system captures images, processes them, and uses a deep learning model to predict the sign being shown in real-time. The system was created using custom datasets collected through image capture, ensuring data quality and relevance to Indian Sign Language (ISL) signs.
